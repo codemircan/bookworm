@@ -1,4 +1,38 @@
 User-agent: *
 Allow: /
 
+# OpenAI (ChatGPT / GPT modelleri için)
+User-agent: GPTBot
+Allow: /
+
+# Anthropic (Claude için)
+User-agent: ClaudeBot
+Allow: /
+
+# Google (Gemini LLM eğitimi için)
+User-agent: Google-Extended
+Allow: /
+
+# Perplexity.ai
+User-agent: PerplexityBot
+Allow: /
+
+# Common Crawl (Birçok AI tarafından kullanılır)
+User-agent: CCBot
+Allow: /
+
+# Diğer önemli AI/Arama Tarayıcıları
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+# Geleneksel Arama Motorları
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
 Disallow: /api/*
