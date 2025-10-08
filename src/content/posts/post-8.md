@@ -3,7 +3,7 @@ title: "Yapay Zeka ile Kod Yazma: 2024'te Developer'ın Oyun Değiştirici Rehbe
 meta_title: ""
 description: "GitHub Copilot, ChatGPT ve daha fazlası. Yapay zeka asistanları ile nasıl daha hızlı ve kaliteli kod yazabileceğinizi, bu araçların avantajlarını, dezavantajlarını ve etik kullanımını öğrenin."
 date: 2024-10-08T05:00:00Z
-image: "/images/posts/ai-coding.jpg"
+image: "/images/posts/ai-coding.webp"
 categories: ["programlama"]
 authors: ["Emircan Aksu"]
 tags: ["yapay zeka", "programlama", "gpt", "github copilot", "geliştirici araçları"]
