@@ -1,16 +1,16 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Anasayfa",
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Hakkımda",
+      "url": "/hakkimda"
     },
     {
-      "name": "Contact",
-      "url": "/contact"
+      "name": "İletişim",
+      "url": "/iletisim"
     },
     {
       "name": "Pages",
@@ -18,44 +18,44 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Authors",
-          "url": "/authors"
+          "name": "Yazarlar",
+          "url": "/yazarlar"
         },
         {
-          "name": "Categories",
-          "url": "/categories"
+          "name": "Kategoriler",
+          "url": "/kategoriler"
         },
         {
-          "name": "Tags",
-          "url": "/tags"
+          "name": "Etiketler",
+          "url": "/etiketler"
         },
         {
-          "name": "Elements",
-          "url": "/elements"
+          "name": "Bileşenler",
+          "url": "/bilesenler"
         },
         {
-          "name": "Privacy Policy",
-          "url": "/privacy-policy"
+          "name": "Gizlilik Politikası",
+          "url": "/gizlilik-politikasi"
         }
       ]
     }
   ],
   "footer": [
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Hakkımda",
+      "url": "/hakkimda"
     },
     {
-      "name": "Contact",
-      "url": "/contact"
+      "name": "İletişim",
+      "url": "/iletisim"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Bileşenler",
+      "url": "/bilesenler"
     },
     {
-      "name": "Privacy Policy",
-      "url": "/privacy-policy"
+      "name": "Gizlilik Politikası",
+      "url": "/gizlilik-politikasi"
     }
   ]
 }
